@@ -41,8 +41,8 @@
 		{
 			"checksumSHA1": "bDwlNvgweUqFZhLWKqJ8KmpYrSw=",
 			"path": "github.com/mesos/mesos-go/detector",
-			"revision": "657252ec6fc27975cd86da9f708acd6f4bb1f9ac",
-			"revisionTime": "2015-11-09T17:20:27Z"
+			"revision": "068d5470506e3780189fe607af40892814197c5e",
+			"revisionTime": "2015-09-30T14:48:02Z"
 		},
 		{
 			"checksumSHA1": "7Of701v4iOc8SOUacRqPrN06Fzc=",
@@ -53,20 +53,20 @@
 		{
 			"checksumSHA1": "Ybu42tjeJACX1sb+hb5JAgn0sWE=",
 			"path": "github.com/mesos/mesos-go/mesosproto",
-			"revision": "657252ec6fc27975cd86da9f708acd6f4bb1f9ac",
-			"revisionTime": "2015-11-09T17:20:27Z"
+			"revision": "068d5470506e3780189fe607af40892814197c5e",
+			"revisionTime": "2015-09-30T14:48:02Z"
 		},
 		{
-			"checksumSHA1": "oQ9EunxNzcNFGTnsUa3m9JyMqBM=",
+			"checksumSHA1": "lBSpOtyhd0EX8GwymGhIkKi9/fo=",
 			"path": "github.com/mesos/mesos-go/mesosutil",
-			"revision": "657252ec6fc27975cd86da9f708acd6f4bb1f9ac",
-			"revisionTime": "2015-11-09T17:20:27Z"
+			"revision": "068d5470506e3780189fe607af40892814197c5e",
+			"revisionTime": "2015-09-30T14:48:02Z"
 		},
 		{
 			"checksumSHA1": "i0pNgzWTPQcO0KLKyQMMza6KXI8=",
 			"path": "github.com/mesos/mesos-go/upid",
-			"revision": "657252ec6fc27975cd86da9f708acd6f4bb1f9ac",
-			"revisionTime": "2015-11-09T17:20:27Z"
+			"revision": "068d5470506e3780189fe607af40892814197c5e",
+			"revisionTime": "2015-09-30T14:48:02Z"
 		},
 		{
 			"checksumSHA1": "5fDLs5/nDypYdthNCVVYDnsrLcc=",
@@ -105,10 +105,10 @@
 			"revisionTime": "2015-09-11T22:55:13Z"
 		},
 		{
-			"checksumSHA1": "9jjO5GjLa0XF/nfWihF02RoH4qc=",
+			"checksumSHA1": "hKZGpbFuCrkE4s1vxubKK1aFlfI=",
 			"path": "golang.org/x/net/context",
-			"revision": "ef00b378c73f107bf44d5c9b69875255ce89b79a",
-			"revisionTime": "2016-05-15T03:16:23Z"
+			"revision": "db8e4de5b2d6653f66aea53094624468caad15d2",
+			"revisionTime": "2015-08-24T16:07:02Z"
 		}
 	],
 	"rootPath": "github.com/mesosphere/mesos-dns"
