@@ -5,6 +5,7 @@ machine:
   environment:
     GOROOT: ${HOME}/go
     PATH: ${GOROOT}/bin:${PATH}
+    GO15VENDOREXPERIMENT: 1
   post:
     - go version
 
